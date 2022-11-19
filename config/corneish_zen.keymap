@@ -36,7 +36,7 @@
 //                    |     |     |     |   |     |     |     |
                         bindings = <
    &kp TAB    &kp BANG       &kp ATSN       &kp HASH       &kp DLLR       &kp PRCT         &kp CRRT   &kp AMPS   &kp KMLT &kp LPRN    &kp RPRN &kp BSPC
-   &bt BT_CLR &bt BT_CLR &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &kpc_pp   &kp PG_UP &kp HOME &kp UP &kp END &kp SEMI &trans
+   &bt BT_CLR &bt BT_CLR &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &kp C_PP   &kp PG_UP &kp HOME &kp UP &kp END &kp SEMI &trans
    &kp LSHFT  &kp LCTRL       &kp LALT       &kp DEL       &kp LNLCK       &kp CAPS         &kp PG_DN   &kp LEFT   &kp DOWN &kp RIGHT    &kp DEL &trans
                           	        &trans     &trans       &trans      &trans  &trans   &trans
                         >;
