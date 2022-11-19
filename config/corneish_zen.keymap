@@ -52,7 +52,7 @@
                         bindings = <
    &kp  TAB  &kp ESC &kp FSLH &kp STAR &kp MINUS &kp PLUS   &kp LNLCK &kp NUM_7  &kp NUM_8 &kp NUM_9 &kp DEL &kp BSPC
    &kp LCTRL &kp C_PP   &kp C_PREV &kp UP   &kp C_NEXT   &kp C_VOL_UP      &kp DOT &kp NUM_4 &kp NUM_5        &kp NUM_6 &kp EQL &kp GRAVE
-   &kp LSHFT &kp SHFT   &kp LEFT &kp DOWN   &kp RIGHT   &kp C_VOL_DN      &kp NUM_0 &kp NUM_1  &kp NUM_2        &kp NUM_3 &kp RET &kp RET
+   &kp LSHFT &kp LSHFT   &kp LEFT &kp DOWN   &kp RIGHT   &kp C_VOL_DN      &kp NUM_0 &kp NUM_1  &kp NUM_2        &kp NUM_3 &kp RET &kp RET
                     	     &trans &trans   &trans   &trans   &trans    &trans
                         >;
                 };
